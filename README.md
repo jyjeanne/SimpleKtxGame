@@ -1,13 +1,13 @@
-# Welcome to A Simple Ktx Game
+# Bienvenue dans le tutoriel : Un jeu simple avec Ktx 
 
-This is a tutorial based on the [A Simple Game](https://github.com/libgdx/libgdx/wiki/A-simple-game) game from the original LibGDX wiki.
-The idea is to demonstrate a small example of how that game could look like in [Kotlin](https://kotlinlang.org/) using [LibKTX](https://github.com/libktx) which contains Kotlin extensions for LibGDX games and applications.
+Ce tutoriel en français est basé sur le jeu [A Simple Game] (https://github.com/libgdx/libgdx/wiki/A-simple-game) du wiki LibGDX original.
+L'idée est de montrer un petit exemple de ce à quoi ce jeu pourrait ressembler avec [Kotlin](https://kotlinlang.org/) en utilisant [LibKTX](ttps://github.com/libktx) qui contient des extensions Kotlin pour les jeux et applications LibGDX.
 
-It should give you a good starting point for developing your own games in the future using LibGDX and Kotlin.
+Cela devrait vous donner un bon point de départ pour développer vos propres jeux à l'avenir en utilisant LibGDX et Kotlin.
 
-The tutorial **will not** explain LibGDX or Kotlin basics.
+Le tutoriel **n'expliquera pas** les bases de LibGDX ou de Kotlin.
 
-If you are interested, please check out the [wiki](https://github.com/Quillraven/SimpleKtxGame/wiki).
+Si vous êtes intéressé, veuillez consulter le [wiki](https://github.com/Quillraven/SimpleKtxGame/wiki).
 
 ***
 
